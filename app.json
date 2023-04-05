@@ -1,6 +1,6 @@
 {
     "name": "telegram-auto_forward",
-    "description": "A bot to forward msg from one tg channel/group to another easily",
+    "description": "Reenvia mensajes de un canal o grupo a otro",
     "keywords": [
       "telegram",
       "forward",
